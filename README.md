@@ -90,6 +90,8 @@ The language code should be a valid [ISO 639-2](https://www.loc.gov/standards/is
 pip install mathparse
 ```
 
+Requires Python 3.10–3.14.
+
 ## Documentation
 
 See the full documentation at https://mathparse.chatterbot.us
